@@ -8,7 +8,11 @@ You can always find the latest released version of the book built at [https://ww
 
 这是基于[Qt6 Book](https://www.qt.io/product/qt6/qml-book)的中文翻译版。
 
+英文仓库: [qt6book](https://github.com/qmlbook/qt6book)
+
 **持续更新中...**
+
+
 
 # 目录
 
